@@ -35,4 +35,4 @@ My dad bought an old wood [OK-jolle](https://en.wikipedia.org/wiki/OK_(dinghy)) 
 
 Is sailing all I do privately? No no no, but it sure does take quite some of my attention and luckily my daughters too.
 
-
+*Also see [Why freilebt?]({% post_url 2023-06-01-why-freilebt %})*
