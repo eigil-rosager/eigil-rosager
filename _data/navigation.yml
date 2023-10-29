@@ -1,0 +1,10 @@
+main:
+  - title: "Services"
+    url: /Services/
+  - title: "monday.com"
+    url: /monday.com/
+  - title: "About"
+    url: /About/
+  - title: "Contact"
+    url: /Contact/
+    

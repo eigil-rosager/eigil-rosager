@@ -19,14 +19,18 @@
 # in the templates via {{ site.myvariable }}.
 
 title: freilebt
+subtitle: "Software Development, Sailing and other aspects of life"
 email: eigil@freilebt.com
+author: "Eigil Rosager Poulsen"
+name: "Eigil Rosager Poulsen"
+
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  I'm an experienced software development manager that loves to code about as much as I love to sail. 
+  I plan to keep coding and sailing for the rest of my life, so with a bit of luck I can keep this blog going for a long time.
+  Reach out to me if you think I can help with: software development, teaching, advice or a chat about sailing.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
+twitter_username: freilebt
 github_username:  jekyll
 
 # Build settings
@@ -42,6 +46,7 @@ plugins:
   - jekyll-include-cache
 
 remote_theme: mmistakes/minimal-mistakes
+minimal_mistakes_skin: air
 
 # Exclude from processing.
 # The following items will not be processed, by default.
@@ -63,5 +68,39 @@ remote_theme: mmistakes/minimal-mistakes
 #   - vendor/gems/
 #   - vendor/ruby/
 
+include: "_pages"
+
 paginate: 5 # amount of posts to show
 paginate_path: /page:num/
+
+show_date: true # show date at top of posts
+
+defaults:
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: false
+      share: true
+      related: true
+
+social:
+  type:  Person
+  name:  "Eigil Rosager Poulsen"
+  links:
+    - "https://www.linkedin.com/in/eigilrosagerpoulsen"
+
+author:
+  name     : "Eigil Rosager Poulsen"
+  avatar   : "/assets/images/bio-photo.jpg"
+  bio      : "Hands-on software development manager and software developer, that loves to code about as much as I love to sail."
+  location : "Copenhagen, Denmark"
+  links:
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/eigilrosagerpoulsen"  
+  
