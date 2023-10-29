@@ -92,21 +92,14 @@ social:
   type:  Person
   name:  "Eigil Rosager Poulsen"
   links:
-    - "https://twitter.com/freilebt"
     - "https://www.linkedin.com/in/eigilrosagerpoulsen"
 
 author:
   name     : "Eigil Rosager Poulsen"
   avatar   : "/assets/images/bio-photo.jpg"
-  bio      : "Hands-on software development manager, that loves to code about as much as I love to sail."
+  bio      : "Hands-on software development manager and software developer, that loves to code about as much as I love to sail."
   location : "Copenhagen, Denmark"
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/freilebt"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/eigil-rosager"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/eigilrosagerpoulsen"  
