@@ -12,7 +12,7 @@ I love to code. C# / .NET - and mostly backend services. I can deliver projects 
 
 ## Teaching
 
-I have passed the [monday.com API certification](https://monday-certificates.s3.eu-west-1.amazonaws.com/Eigil%20Rosager%20Poulsen_monday.com%20API%20Certification.png) and I teach a course on how to use the monday.com solution offered by [Teknologisk Institut](https://www.teknologisk.dk). The course is in Danish and is called [Grundlæggende kursus i monday.com](https://www.teknologisk.dk/kurser/grundlaeggende-kursus-i-monday-com/k90849).
+I have passed the [monday.com API certification](https://monday-certificates.s3.eu-west-1.amazonaws.com/Eigil%20Rosager%20Poulsen_monday.com%20API%20Certification.png) and I can offer your company customized training in monday.com.
 
 ## monday.com integrations
 
